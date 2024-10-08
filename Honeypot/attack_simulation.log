@@ -1,0 +1,83 @@
+2024-10-08 11:17:01,594 - Attempt 1: UDP Flood on port 8080 sent!
+2024-10-08 11:17:01,802 - Attempt 2: SYN Flood on port 8080 successful!
+2024-10-08 11:17:02,610 - Attempt 3: Connection Timeout on port 8080 successful!
+2024-10-08 11:17:02,717 - Attempt 4: SYN Flood on port 8080 successful!
+2024-10-08 11:17:03,464 - Attempt 5: UDP Flood on port 8080 sent!
+2024-10-08 11:17:04,757 - Attempt 6: HTTP GET Request on port 8080 - Response: Hi there! What would you like to know?
+
+2024-10-08 11:17:05,004 - Attempt 7: SYN Flood on port 8080 successful!
+2024-10-08 11:17:05,841 - Attempt 8: HTTP GET Request on port 8080 - Response: I'm here to help with anything you need!
+
+2024-10-08 11:17:06,594 - Attempt 9: HTTP GET Request on port 8080 - Response: I'm here to help with anything you need!
+
+2024-10-08 11:17:07,538 - Attempt 10: SYN Flood on port 8080 successful!
+2024-10-08 11:17:10,528 - Attempt 1: HTTP POST Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:12,946 - Attempt 2: HTTP GET Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:13,438 - Attempt 3: UDP Flood on port 8081 sent!
+2024-10-08 11:17:15,816 - Attempt 4: HTTP POST Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:16,652 - Attempt 5: Connection Timeout on port 8081 failed: timed out
+2024-10-08 11:17:19,022 - Attempt 6: SYN Flood on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:21,450 - Attempt 7: HTTP POST Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:21,649 - Attempt 8: UDP Flood on port 8081 sent!
+2024-10-08 11:17:23,928 - Attempt 9: HTTP GET Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:26,269 - Attempt 10: SYN Flood on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:27,265 - Attempt 1: Connection Timeout on port 8082 failed: timed out
+2024-10-08 11:17:30,164 - Attempt 2: SYN Flood on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:30,859 - Attempt 3: UDP Flood on port 8082 sent!
+2024-10-08 11:17:33,853 - Attempt 4: HTTP POST Request on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:36,162 - Attempt 5: SYN Flood on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:39,185 - Attempt 6: SYN Flood on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:41,613 - Attempt 7: HTTP GET Request on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:17:42,268 - Attempt 8: UDP Flood on port 8082 sent!
+2024-10-08 11:17:42,627 - Attempt 9: UDP Flood on port 8082 sent!
+2024-10-08 11:17:45,450 - Attempt 10: HTTP POST Request on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:26:55,846 - Attempt 1: HTTP POST Request on port 8080 - Response: HTTP/1.1 200 OK
+
+Hello from the honeypot!
+2024-10-08 11:27:02,920 - Attempt 2: HTTP GET Request on port 8080 failed: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-10-08 11:27:03,893 - Attempt 3: UDP Flood on port 8080 sent!
+2024-10-08 11:27:04,919 - Attempt 4: UDP Flood on port 8080 sent!
+2024-10-08 11:27:05,568 - Attempt 5: UDP Flood on port 8080 sent!
+2024-10-08 11:27:08,073 - Attempt 6: HTTP GET Request on port 8080 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:27:08,435 - Attempt 7: Connection Timeout on port 8080 failed: timed out
+2024-10-08 11:27:09,107 - Attempt 8: UDP Flood on port 8080 sent!
+2024-10-08 11:27:09,348 - Attempt 9: UDP Flood on port 8080 sent!
+2024-10-08 11:29:14,983 - Attempt 1: SYN Flood on port 8080 successful!
+2024-10-08 11:29:15,236 - Attempt 2: SYN Flood on port 8080 successful!
+2024-10-08 11:31:11,020 - Attempt 1: Connection Timeout on port 8080 successful!
+2024-10-08 11:31:11,140 - Attempt 2: Connection Timeout on port 8080 successful!
+2024-10-08 11:33:26,321 - Attempt 3: HTTP GET Request on port 8080 failed: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-10-08 11:33:44,359 - Attempt 1: HTTP GET Request on port 8080 - Response: Hello! How can I assist you today?
+
+2024-10-08 11:33:44,974 - Attempt 2: UDP Flood on port 8080 sent!
+2024-10-08 11:33:46,011 - Attempt 3: HTTP GET Request on port 8080 - Response: Welcome back! Do you have more questions?
+
+2024-10-08 11:33:46,645 - Attempt 4: Connection Timeout on port 8080 successful!
+2024-10-08 11:33:47,111 - Attempt 5: UDP Flood on port 8080 sent!
+2024-10-08 11:33:47,878 - Attempt 6: SYN Flood on port 8080 successful!
+2024-10-08 11:33:48,258 - Attempt 7: SYN Flood on port 8080 successful!
+2024-10-08 11:33:49,212 - Attempt 8: HTTP POST Request on port 8080 - Response: I'm here to help with anything you need!
+
+2024-10-08 11:33:50,142 - Attempt 9: Connection Timeout on port 8080 successful!
+2024-10-08 11:33:51,126 - Attempt 10: HTTP GET Request on port 8080 - Response: I'm here to help with anything you need!
+
+2024-10-08 11:33:53,719 - Attempt 1: HTTP POST Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:33:54,383 - Attempt 2: UDP Flood on port 8081 sent!
+2024-10-08 11:33:55,239 - Attempt 3: UDP Flood on port 8081 sent!
+2024-10-08 11:33:58,156 - Attempt 4: SYN Flood on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:00,769 - Attempt 5: SYN Flood on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:03,423 - Attempt 6: HTTP POST Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:06,248 - Attempt 7: HTTP POST Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:07,360 - Attempt 8: Connection Timeout on port 8081 failed: timed out
+2024-10-08 11:34:10,205 - Attempt 9: HTTP GET Request on port 8081 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:10,617 - Attempt 10: Connection Timeout on port 8081 failed: timed out
+2024-10-08 11:34:13,207 - Attempt 1: SYN Flood on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:13,492 - Attempt 2: Connection Timeout on port 8082 failed: timed out
+2024-10-08 11:34:16,297 - Attempt 3: HTTP POST Request on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:19,013 - Attempt 4: HTTP GET Request on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:21,544 - Attempt 5: SYN Flood on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:22,081 - Attempt 6: Connection Timeout on port 8082 failed: timed out
+2024-10-08 11:34:24,597 - Attempt 7: HTTP GET Request on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:25,122 - Attempt 8: UDP Flood on port 8082 sent!
+2024-10-08 11:34:27,554 - Attempt 9: SYN Flood on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-08 11:34:30,530 - Attempt 10: HTTP GET Request on port 8082 failed: [WinError 10061] No connection could be made because the target machine actively refused it

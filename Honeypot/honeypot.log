@@ -1,0 +1,330 @@
+2024-10-08 08:40:22,600 - Honeypot listening on 0.0.0.0:8080
+2024-10-08 08:59:07,689 - Honeypot listening on 0.0.0.0:8080
+2024-10-08 09:22:46,476 - Connection attempt from ('127.0.0.1', 60600)
+2024-10-08 09:31:04,115 - Connection attempt from ('127.0.0.1', 61207)
+2024-10-08 09:35:17,953 - Connection attempt from ('127.0.0.1', 61503)
+2024-10-08 09:36:26,789 - Connection attempt from ('127.0.0.1', 61585)
+2024-10-08 09:38:40,100 - Honeypot listening on 0.0.0.0:8080
+2024-10-08 09:47:28,074 - Honeypot listening on 0.0.0.0:8080
+2024-10-08 09:47:28,463 - Connection attempt from ('127.0.0.1', 62446)
+2024-10-08 09:47:28,567 - Connection attempt from ('127.0.0.1', 62447)
+2024-10-08 09:47:28,676 - Connection attempt from ('127.0.0.1', 62449)
+2024-10-08 09:47:28,781 - Connection attempt from ('127.0.0.1', 62450)
+2024-10-08 09:47:28,884 - Connection attempt from ('127.0.0.1', 62451)
+2024-10-08 09:47:28,987 - Connection attempt from ('127.0.0.1', 62452)
+2024-10-08 09:47:29,089 - Connection attempt from ('127.0.0.1', 62453)
+2024-10-08 09:47:29,192 - Connection attempt from ('127.0.0.1', 62454)
+2024-10-08 09:47:29,295 - Connection attempt from ('127.0.0.1', 62455)
+2024-10-08 09:47:29,399 - Connection attempt from ('127.0.0.1', 62456)
+2024-10-08 09:47:29,502 - Connection attempt from ('127.0.0.1', 62457)
+2024-10-08 09:47:29,607 - Connection attempt from ('127.0.0.1', 62458)
+2024-10-08 09:47:29,712 - Connection attempt from ('127.0.0.1', 62459)
+2024-10-08 09:47:29,816 - Connection attempt from ('127.0.0.1', 62460)
+2024-10-08 09:47:29,920 - Connection attempt from ('127.0.0.1', 62461)
+2024-10-08 09:47:30,022 - Connection attempt from ('127.0.0.1', 62462)
+2024-10-08 09:47:30,128 - Connection attempt from ('127.0.0.1', 62464)
+2024-10-08 09:47:30,231 - Connection attempt from ('127.0.0.1', 62465)
+2024-10-08 09:47:30,333 - Connection attempt from ('127.0.0.1', 62466)
+2024-10-08 09:47:30,435 - Connection attempt from ('127.0.0.1', 62467)
+2024-10-08 09:47:30,540 - Connection attempt from ('127.0.0.1', 62468)
+2024-10-08 09:47:30,645 - Connection attempt from ('127.0.0.1', 62469)
+2024-10-08 09:47:30,747 - Connection attempt from ('127.0.0.1', 62470)
+2024-10-08 09:47:30,849 - Connection attempt from ('127.0.0.1', 62471)
+2024-10-08 09:47:30,950 - Connection attempt from ('127.0.0.1', 62473)
+2024-10-08 09:47:31,052 - Connection attempt from ('127.0.0.1', 62474)
+2024-10-08 09:47:31,154 - Connection attempt from ('127.0.0.1', 62475)
+2024-10-08 09:47:31,257 - Connection attempt from ('127.0.0.1', 62476)
+2024-10-08 09:47:31,359 - Connection attempt from ('127.0.0.1', 62477)
+2024-10-08 09:47:31,460 - Connection attempt from ('127.0.0.1', 62478)
+2024-10-08 09:47:31,562 - Connection attempt from ('127.0.0.1', 62479)
+2024-10-08 09:47:31,664 - Connection attempt from ('127.0.0.1', 62480)
+2024-10-08 09:47:31,766 - Connection attempt from ('127.0.0.1', 62481)
+2024-10-08 09:47:31,869 - Connection attempt from ('127.0.0.1', 62482)
+2024-10-08 09:47:31,971 - Connection attempt from ('127.0.0.1', 62483)
+2024-10-08 09:47:32,073 - Connection attempt from ('127.0.0.1', 62487)
+2024-10-08 09:47:32,175 - Connection attempt from ('127.0.0.1', 62490)
+2024-10-08 09:47:32,285 - Connection attempt from ('127.0.0.1', 62491)
+2024-10-08 09:47:32,389 - Connection attempt from ('127.0.0.1', 62492)
+2024-10-08 09:47:32,492 - Connection attempt from ('127.0.0.1', 62493)
+2024-10-08 09:47:32,594 - Connection attempt from ('127.0.0.1', 62494)
+2024-10-08 09:47:32,697 - Connection attempt from ('127.0.0.1', 62495)
+2024-10-08 09:47:32,799 - Connection attempt from ('127.0.0.1', 62496)
+2024-10-08 09:47:32,902 - Connection attempt from ('127.0.0.1', 62497)
+2024-10-08 09:47:33,004 - Connection attempt from ('127.0.0.1', 62498)
+2024-10-08 09:47:33,105 - Connection attempt from ('127.0.0.1', 62500)
+2024-10-08 09:47:33,208 - Connection attempt from ('127.0.0.1', 62501)
+2024-10-08 09:47:33,370 - Connection attempt from ('127.0.0.1', 62502)
+2024-10-08 09:47:33,542 - Connection attempt from ('127.0.0.1', 62503)
+2024-10-08 09:47:33,656 - Connection attempt from ('127.0.0.1', 62504)
+2024-10-08 09:47:33,807 - Connection attempt from ('127.0.0.1', 62506)
+2024-10-08 09:47:33,965 - Connection attempt from ('127.0.0.1', 62507)
+2024-10-08 09:47:34,163 - Connection attempt from ('127.0.0.1', 62508)
+2024-10-08 09:47:34,322 - Connection attempt from ('127.0.0.1', 62510)
+2024-10-08 09:47:34,452 - Connection attempt from ('127.0.0.1', 62511)
+2024-10-08 09:47:34,556 - Connection attempt from ('127.0.0.1', 62512)
+2024-10-08 09:47:34,672 - Connection attempt from ('127.0.0.1', 62513)
+2024-10-08 09:47:34,779 - Connection attempt from ('127.0.0.1', 62514)
+2024-10-08 09:47:34,881 - Connection attempt from ('127.0.0.1', 62516)
+2024-10-08 09:47:34,998 - Connection attempt from ('127.0.0.1', 62517)
+2024-10-08 09:47:35,111 - Connection attempt from ('127.0.0.1', 62518)
+2024-10-08 09:47:35,223 - Connection attempt from ('127.0.0.1', 62519)
+2024-10-08 09:47:35,386 - Connection attempt from ('127.0.0.1', 62520)
+2024-10-08 09:47:35,525 - Connection attempt from ('127.0.0.1', 62521)
+2024-10-08 09:47:35,640 - Connection attempt from ('127.0.0.1', 62522)
+2024-10-08 09:47:35,757 - Connection attempt from ('127.0.0.1', 62523)
+2024-10-08 09:47:35,886 - Connection attempt from ('127.0.0.1', 62524)
+2024-10-08 09:47:36,053 - Connection attempt from ('127.0.0.1', 62530)
+2024-10-08 09:47:47,967 - Honeypot listening on 0.0.0.0:8080
+2024-10-08 09:49:17,906 - Honeypot listening on 0.0.0.0:8080
+2024-10-08 09:49:31,915 - Honeypot listening on 0.0.0.0:8081
+INFO:root:Connection from ('127.0.0.1', 63177) at 2024-10-08 09:55:45
+INFO:root:Connection from ('127.0.0.1', 63302) at 2024-10-08 09:57:26
+INFO:root:Connection from ('127.0.0.1', 63303) at 2024-10-08 09:57:27
+INFO:root:Connection from ('127.0.0.1', 63304) at 2024-10-08 09:57:28
+INFO:root:Connection from ('127.0.0.1', 63307) at 2024-10-08 09:57:29
+INFO:root:Connection from ('127.0.0.1', 63308) at 2024-10-08 09:57:30
+INFO:root:Connection from ('127.0.0.1', 63310) at 2024-10-08 09:57:31
+INFO:root:Connection from ('127.0.0.1', 63311) at 2024-10-08 09:57:32
+INFO:root:Connection from ('127.0.0.1', 63317) at 2024-10-08 09:57:33
+INFO:root:Connection from ('127.0.0.1', 63321) at 2024-10-08 09:57:34
+INFO:root:Connection from ('127.0.0.1', 63323) at 2024-10-08 09:57:35
+INFO:root:Connection from ('127.0.0.1', 63333) at 2024-10-08 09:57:36
+INFO:root:Connection from ('127.0.0.1', 63334) at 2024-10-08 09:57:37
+INFO:root:Connection from ('127.0.0.1', 63336) at 2024-10-08 09:57:38
+INFO:root:Connection from ('127.0.0.1', 63337) at 2024-10-08 09:57:39
+INFO:root:Connection from ('127.0.0.1', 63858) at 2024-10-08 10:04:55
+INFO:root:Connection from ('127.0.0.1', 63859) at 2024-10-08 10:04:56
+INFO:root:Connection from ('127.0.0.1', 63860) at 2024-10-08 10:04:57
+INFO:root:Connection from ('127.0.0.1', 63862) at 2024-10-08 10:04:58
+INFO:root:Connection from ('127.0.0.1', 63864) at 2024-10-08 10:04:59
+INFO:root:Connection from ('127.0.0.1', 63865) at 2024-10-08 10:05:00
+INFO:root:Connection from ('127.0.0.1', 63871) at 2024-10-08 10:05:01
+INFO:root:Connection from ('127.0.0.1', 63872) at 2024-10-08 10:05:02
+INFO:root:Connection from ('127.0.0.1', 63873) at 2024-10-08 10:05:03
+INFO:root:Connection from ('127.0.0.1', 63877) at 2024-10-08 10:05:04
+INFO:root:Connection from ('127.0.0.1', 63886) at 2024-10-08 10:05:05
+INFO:root:Connection from ('127.0.0.1', 63888) at 2024-10-08 10:05:06
+INFO:root:Connection from ('127.0.0.1', 63889) at 2024-10-08 10:05:07
+INFO:root:Connection from ('127.0.0.1', 63890) at 2024-10-08 10:05:08
+INFO:root:Connection from ('127.0.0.1', 64026) at 2024-10-08 10:07:05
+INFO:root:Connection duration from ('127.0.0.1', 64026): 5.37 seconds
+INFO:root:Connection from ('127.0.0.1', 64035) at 2024-10-08 10:07:06
+INFO:root:Connection duration from ('127.0.0.1', 64035): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64037) at 2024-10-08 10:07:07
+INFO:root:Connection duration from ('127.0.0.1', 64037): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64040) at 2024-10-08 10:07:08
+INFO:root:Connection duration from ('127.0.0.1', 64040): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64041) at 2024-10-08 10:07:09
+INFO:root:Connection duration from ('127.0.0.1', 64041): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64042) at 2024-10-08 10:07:10
+INFO:root:Connection duration from ('127.0.0.1', 64042): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64043) at 2024-10-08 10:07:11
+INFO:root:Connection duration from ('127.0.0.1', 64043): 1.01 seconds
+INFO:root:Connection from ('127.0.0.1', 64044) at 2024-10-08 10:07:12
+INFO:root:Connection duration from ('127.0.0.1', 64044): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64045) at 2024-10-08 10:07:13
+INFO:root:Connection duration from ('127.0.0.1', 64045): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64046) at 2024-10-08 10:07:14
+INFO:root:Connection duration from ('127.0.0.1', 64046): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64047) at 2024-10-08 10:07:15
+INFO:root:Connection duration from ('127.0.0.1', 64047): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64048) at 2024-10-08 10:07:16
+INFO:root:Connection duration from ('127.0.0.1', 64048): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64049) at 2024-10-08 10:07:17
+INFO:root:Connection duration from ('127.0.0.1', 64049): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64050) at 2024-10-08 10:07:18
+INFO:root:Connection duration from ('127.0.0.1', 64050): 1.03 seconds
+INFO:root:Connection from ('127.0.0.1', 64285) at 2024-10-08 10:10:36
+INFO:root:Data from ('127.0.0.1', 64285): Hello, this is attack attempt 1.
+INFO:root:Connection duration from ('127.0.0.1', 64285): 8.97 seconds
+INFO:root:Connection from ('127.0.0.1', 64294) at 2024-10-08 10:10:37
+INFO:root:Data from ('127.0.0.1', 64294): Hello, this is attack attempt 2.
+INFO:root:Connection duration from ('127.0.0.1', 64294): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64296) at 2024-10-08 10:10:38
+INFO:root:Data from ('127.0.0.1', 64296): attack: This is a simulated attack!
+INFO:root:Connection duration from ('127.0.0.1', 64296): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64298) at 2024-10-08 10:10:39
+INFO:root:Data from ('127.0.0.1', 64298): Hello, this is attack attempt 4.
+INFO:root:Connection duration from ('127.0.0.1', 64298): 1.01 seconds
+INFO:root:Connection from ('127.0.0.1', 64300) at 2024-10-08 10:10:40
+INFO:root:Data from ('127.0.0.1', 64300): Hello, this is attack attempt 5.
+INFO:root:Connection duration from ('127.0.0.1', 64300): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64301) at 2024-10-08 10:10:41
+INFO:root:Data from ('127.0.0.1', 64301): attack: This is a simulated attack!
+INFO:root:Connection duration from ('127.0.0.1', 64301): 1.01 seconds
+INFO:root:Connection from ('127.0.0.1', 64302) at 2024-10-08 10:10:42
+INFO:root:Data from ('127.0.0.1', 64302): Hello, this is attack attempt 7.
+INFO:root:Connection duration from ('127.0.0.1', 64302): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64303) at 2024-10-08 10:10:43
+INFO:root:Data from ('127.0.0.1', 64303): Hello, this is attack attempt 8.
+INFO:root:Connection duration from ('127.0.0.1', 64303): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64304) at 2024-10-08 10:10:44
+INFO:root:Data from ('127.0.0.1', 64304): attack: This is a simulated attack!
+INFO:root:Connection duration from ('127.0.0.1', 64304): 1.05 seconds
+INFO:root:Connection from ('127.0.0.1', 64305) at 2024-10-08 10:10:45
+INFO:root:Data from ('127.0.0.1', 64305): Hello, this is attack attempt 10.
+INFO:root:Connection duration from ('127.0.0.1', 64305): 1.01 seconds
+INFO:root:Connection from ('127.0.0.1', 64306) at 2024-10-08 10:10:46
+INFO:root:Data from ('127.0.0.1', 64306): Hello, this is attack attempt 11.
+INFO:root:Connection duration from ('127.0.0.1', 64306): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64307) at 2024-10-08 10:10:47
+INFO:root:Data from ('127.0.0.1', 64307): attack: This is a simulated attack!
+INFO:root:Connection duration from ('127.0.0.1', 64307): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64308) at 2024-10-08 10:10:48
+INFO:root:Data from ('127.0.0.1', 64308): Hello, this is attack attempt 13.
+INFO:root:Connection duration from ('127.0.0.1', 64308): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64312) at 2024-10-08 10:10:49
+INFO:root:Data from ('127.0.0.1', 64312): Hello, this is attack attempt 14.
+INFO:root:Connection duration from ('127.0.0.1', 64312): 1.01 seconds
+INFO:root:Connection from ('127.0.0.1', 64839) at 2024-10-08 10:18:17
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64839): None, None
+INFO:root:Data from ('127.0.0.1', 64839): Hello, this is attack attempt 1.
+INFO:root:Connection duration from ('127.0.0.1', 64839): 9.07 seconds
+INFO:root:Connection from ('127.0.0.1', 64842) at 2024-10-08 10:18:18
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64842): None, None
+INFO:root:Data from ('127.0.0.1', 64842): Hello, this is attack attempt 2.
+INFO:root:Connection duration from ('127.0.0.1', 64842): 1.01 seconds
+INFO:root:Connection from ('127.0.0.1', 64847) at 2024-10-08 10:18:19
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64847): None, None
+INFO:root:Data from ('127.0.0.1', 64847): attack: This is a simulated attack!
+INFO:root:Connection duration from ('127.0.0.1', 64847): 1.05 seconds
+INFO:root:Connection from ('127.0.0.1', 64857) at 2024-10-08 10:18:20
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64857): None, None
+INFO:root:Data from ('127.0.0.1', 64857): Hello, this is attack attempt 4.
+INFO:root:Connection duration from ('127.0.0.1', 64857): 1.09 seconds
+INFO:root:Connection from ('127.0.0.1', 64860) at 2024-10-08 10:18:21
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64860): None, None
+INFO:root:Data from ('127.0.0.1', 64860): Hello, this is attack attempt 5.
+INFO:root:Connection duration from ('127.0.0.1', 64860): 0.88 seconds
+INFO:root:Connection from ('127.0.0.1', 64863) at 2024-10-08 10:18:22
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64863): None, None
+INFO:root:Data from ('127.0.0.1', 64863): attack: This is a simulated attack!
+INFO:root:Connection duration from ('127.0.0.1', 64863): 1.02 seconds
+INFO:root:Connection from ('127.0.0.1', 64865) at 2024-10-08 10:18:23
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64865): None, None
+INFO:root:Data from ('127.0.0.1', 64865): Hello, this is attack attempt 7.
+INFO:root:Connection duration from ('127.0.0.1', 64865): 1.00 seconds
+INFO:root:Connection from ('127.0.0.1', 64868) at 2024-10-08 10:18:24
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64868): None, None
+INFO:root:Data from ('127.0.0.1', 64868): Hello, this is attack attempt 8.
+INFO:root:Connection duration from ('127.0.0.1', 64868): 1.17 seconds
+INFO:root:Connection from ('127.0.0.1', 64870) at 2024-10-08 10:18:25
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64870): None, None
+INFO:root:Data from ('127.0.0.1', 64870): attack: This is a simulated attack!
+INFO:root:Connection duration from ('127.0.0.1', 64870): 0.87 seconds
+INFO:root:Connection from ('127.0.0.1', 64872) at 2024-10-08 10:18:26
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64872): None, None
+INFO:root:Data from ('127.0.0.1', 64872): Hello, this is attack attempt 10.
+INFO:root:Connection duration from ('127.0.0.1', 64872): 1.09 seconds
+INFO:root:Connection from ('127.0.0.1', 64874) at 2024-10-08 10:18:27
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64874): None, None
+INFO:root:Data from ('127.0.0.1', 64874): Hello, this is attack attempt 11.
+INFO:root:Connection duration from ('127.0.0.1', 64874): 0.93 seconds
+INFO:root:Connection from ('127.0.0.1', 64877) at 2024-10-08 10:18:29
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64877): None, None
+INFO:root:Data from ('127.0.0.1', 64877): attack: This is a simulated attack!
+INFO:root:Connection duration from ('127.0.0.1', 64877): 0.99 seconds
+INFO:root:Connection from ('127.0.0.1', 64879) at 2024-10-08 10:18:30
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64879): None, None
+INFO:root:Data from ('127.0.0.1', 64879): Hello, this is attack attempt 13.
+INFO:root:Connection duration from ('127.0.0.1', 64879): 1.03 seconds
+INFO:root:Connection from ('127.0.0.1', 64881) at 2024-10-08 10:18:31
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 64881): None, None
+INFO:root:Data from ('127.0.0.1', 64881): Hello, this is attack attempt 14.
+INFO:root:Connection duration from ('127.0.0.1', 64881): 1.05 seconds
+INFO:root:Connection from ('127.0.0.1', 51123) on port 8082 at 2024-10-08 10:50:20
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51123): None, None
+INFO:root:Data from ('127.0.0.1', 51123) on port 8082: Hello, this is attack attempt 1.
+INFO:root:Connection from ('127.0.0.1', 51310) on port 8082 at 2024-10-08 10:52:46
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51310): None, None
+INFO:root:Connection from ('127.0.0.1', 51502) on port 8082 at 2024-10-08 10:55:26
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51502): None, None
+INFO:root:Connection from ('127.0.0.1', 51550) on port 8082 at 2024-10-08 10:55:54
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51550): None, None
+INFO:root:Connection from ('127.0.0.1', 51645) on port 8082 at 2024-10-08 10:57:03
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51645): None, None
+INFO:root:Connection from ('127.0.0.1', 51684) on port 8082 at 2024-10-08 10:57:31
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51684): None, None
+INFO:root:Connection from ('127.0.0.1', 51738) on port 8082 at 2024-10-08 10:57:59
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51738): None, None
+INFO:root:Connection from ('127.0.0.1', 51740) on port 8082 at 2024-10-08 10:58:00
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51740): None, None
+INFO:root:Connection from ('127.0.0.1', 51746) on port 8082 at 2024-10-08 10:58:01
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51746): None, None
+INFO:root:Connection from ('127.0.0.1', 51748) on port 8082 at 2024-10-08 10:58:02
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51748): None, None
+INFO:root:Connection from ('127.0.0.1', 51751) on port 8082 at 2024-10-08 10:58:03
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51751): None, None
+INFO:root:Connection from ('127.0.0.1', 51755) on port 8082 at 2024-10-08 10:58:04
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51755): None, None
+INFO:root:Connection from ('127.0.0.1', 51765) on port 8082 at 2024-10-08 10:58:05
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51765): None, None
+INFO:root:Connection from ('127.0.0.1', 51768) on port 8082 at 2024-10-08 10:58:06
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51768): None, None
+INFO:root:Connection from ('127.0.0.1', 51771) on port 8082 at 2024-10-08 10:58:07
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51771): None, None
+INFO:root:Connection from ('127.0.0.1', 51773) on port 8082 at 2024-10-08 10:58:08
+INFO:geocoder.base:Requested http://ipinfo.io/127.0.0.1/json
+INFO:root:Geolocation for ('127.0.0.1', 51773): None, None
+2024-10-08 11:23:53,225 - Honeypot is listening on port 8080...
+2024-10-08 11:23:53,225 - Honeypot is listening on port 8081...
+2024-10-08 11:23:53,226 - Honeypot is listening on port 8082...
+2024-10-08 11:24:36,587 - Honeypot is listening on port 8080...
+2024-10-08 11:24:36,588 - Honeypot is listening on port 8081...
+2024-10-08 11:24:36,588 - Honeypot is listening on port 8082...
+2024-10-08 11:24:58,027 - Connection from ('127.0.0.1', 53809) on port 8080 has been established!
+2024-10-08 11:25:08,947 - Honeypot is listening on port 8080...
+2024-10-08 11:25:08,948 - Honeypot is listening on port 8081...
+2024-10-08 11:25:08,948 - Honeypot is listening on port 8082...
+2024-10-08 11:26:50,060 - Honeypot is listening on port 8080...
+2024-10-08 11:26:50,061 - Honeypot is listening on port 8081...
+2024-10-08 11:26:50,061 - Honeypot is listening on port 8082...
+2024-10-08 11:26:55,845 - Connection from ('127.0.0.1', 53954) on port 8080 has been established!
+2024-10-08 11:26:55,845 - Received request from ('127.0.0.1', 53954) on port 8080: POST /data HTTP/1.1
+Host: localhost
+Content-Length: 0
+
+
+2024-10-08 11:26:55,846 - Sent response to ('127.0.0.1', 53954) on port 8080
+2024-10-08 11:27:09,814 - Honeypot is listening on port 8080...
+2024-10-08 11:27:09,814 - Honeypot is listening on port 8081...
+2024-10-08 11:27:09,814 - Honeypot is listening on port 8082...
+2024-10-08 11:27:42,877 - Honeypot is listening on port 8080...
+2024-10-08 11:27:42,878 - Honeypot is listening on port 8081...
+2024-10-08 11:27:42,878 - Honeypot is listening on port 8082...
+2024-10-08 11:29:14,983 - Connection from ('127.0.0.1', 54123) on port 8080 has been established!
+2024-10-08 11:29:14,984 - Sent response to ('127.0.0.1', 54123) on port 8080
+2024-10-08 11:30:58,910 - Honeypot is listening on port 8080...
+2024-10-08 11:30:58,911 - Honeypot is listening on port 8081...
+2024-10-08 11:30:58,911 - Honeypot is listening on port 8082...
+2024-10-08 11:31:11,019 - Connection from ('127.0.0.1', 54285) on port 8080 has been established!
+2024-10-08 11:31:11,020 - Sent response to ('127.0.0.1', 54285) on port 8080
